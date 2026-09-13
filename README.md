@@ -2,7 +2,7 @@
 
 Este repositorio contiene la interfaz de usuario del proyecto, construida con **Vue 3** y el motor **Vite**. Está diseñada para interactuar de forma concurrente con un backend de microservicios (Java/Spring Boot y C#/.NET) a través de un API Gateway configurado en Nginx.
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 - **Framework Core:** Vue 3
 - **Entorno y Build:** Vite
@@ -11,7 +11,7 @@ Este repositorio contiene la interfaz de usuario del proyecto, construida con **
 - **Enrutamiento:** Vue Router
 - **Peticiones HTTP:** Axios
 
-## 📋 Requisitos Previos
+## Requisitos Previos
 
 Para levantar este proyecto necesitas tener instalado Node.js. Además, este proyecto utiliza **pnpm** por su velocidad y eficiencia en el manejo de dependencias.
 
