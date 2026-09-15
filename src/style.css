@@ -3,16 +3,16 @@
   --color-primary: #1F0C33;
   --color-secondary: #3B2155;
   --color-background: #DDBBFE;
+  --color-background-2: #937CAA;
   --color-text: #0b101c;
   --color-text-2: #FFFFFF;
   --color-secondary-1: #634780;
-  --color-secondary-2: #937CAA;
-  --color-secondary-3: #C9BED5;
+  --color-secondary-2: #C9BED5;
 
   /* 2. Tipografía */
-  --font-family-base: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --font-family-secondary: "Cinzel", serif;
-  --font-family-description: "Google Sans", sans-serif;
+  --font-family-base: "Helvetica Neue", Helvetica, Arial, sans-serif; /*titulos*/
+  --font-family-secondary: "Cinzel", serif;  /*subtitulos*/
+  --font-family-description: "Google Sans", sans-serif;  /*textos descriptivos*/
 
   /* 3. Bordes y Sombras */
   --border-radius: 8px;
